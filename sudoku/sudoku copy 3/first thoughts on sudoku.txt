@@ -1,0 +1,76 @@
+interface convivial
+
+no concev/résolution menu
+
+concevoir
+
+soit 1) grille vide, soit 2) grille chargé depuis un fichier!! remplacement des valeurs possible.
+
+empêcher des placements contradictoires:
+
+if line, column, region then { setColor red -> problem: enter? listening frequency? } 
+if then event.isEntered { pane.setValue("") pane.setVisible(true)
+
+grille achevé: sauvegarder ds un nouveau/ancien fichier. JFile chooser.
+
+[mettre les valeurs dans un tableau[9][9]?]
+
+
+résoudre 
+
+chargement d'un fichier
+
+1) option automatique: 
+faire cohabiter des chiffres?
+nanoTime
+
+2) option jeu: empecher la modification des chiffres préétablies
+rangement de 4 valeurs temporaires…
+
+a dynamic class that cecks new contradictions…
+
+
+
+deux programmes fait sur le serveur SVN 
+
+un rapport Fichier PDF joint aux sources
+
+9x9 board - make a board object, then just draw it?
+
+lineListener, columnListener, regionListener
+if y=x%9?
+make seperate object for regionListener.
+
+if case.isClicked { pane.setVisible(false)  // just show JText above layer, then hide it again.
+if then value.isEntere { set.Visible(true)}
+
+
+
+sources 
+
+pour chaque class.. un fichier + commentaire + un pour chaque membre de la classe
+
+
+rapport
+
+page de garde
+
+table de matières entêtes, pieds de page..
+
+introduction -> breve description du sujet
+
+descriptions des fonctionalités + captures d'écran
+
+structure du programme avec diagramme de classes…
+
+exposition de l'algorithme qui résoud les grilles
+
+conclusion personnelle.
+
+900 / 100 = 9
+
+600 * x = 900
+
+x = 900/600 
+
+
